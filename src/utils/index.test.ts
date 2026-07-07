@@ -1,3 +1,4 @@
+//src//utils//index.test.ts
 import { describe, expect, it } from 'vitest';
 import { calculateEMI, formatNumber, roundTo } from './index';
 

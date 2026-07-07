@@ -2,7 +2,7 @@
   "name": "smart_calculator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/smart_calculator",
+  "homepage": "https://kobirmdibrahim829.github.io/smart_calculator",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

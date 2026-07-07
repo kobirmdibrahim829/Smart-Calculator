@@ -1,3 +1,4 @@
+//src//services//index.ts
 // ============================================================
 // SMART CALCULATOR PRO — Currency Service (Frankfurter API)
 // ============================================================
